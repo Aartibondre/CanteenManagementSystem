@@ -1,0 +1,42 @@
+[INFO] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/maven-metadata.xml
+Progress (1): 803 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/maven-metadata.xml (803 B at 758 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/3.1.0/exec-maven-plugin-3.1.0.pom
+Progress (1): 2.7/14 kBProgress (1): 5.5/14 kBProgress (1): 8.2/14 kBProgress (1): 11/14 kB Progress (1): 14 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/3.1.0/exec-maven-plugin-3.1.0.pom (14 kB at 40 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/69/mojo-parent-69.pom
+Progress (1): 2.7/35 kBProgress (1): 5.5/35 kBProgress (1): 8.2/35 kBProgress (1): 11/35 kB Progress (1): 14/35 kBProgress (1): 16/35 kBProgress (1): 19/35 kBProgress (1): 21/35 kBProgress (1): 24/35 kBProgress (1): 27/35 kBProgress (1): 30/35 kBProgress (1): 32/35 kBProgress (1): 35 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/69/mojo-parent-69.pom (35 kB at 95 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.8.2/junit-bom-5.8.2.pom
+Progress (1): 2.7/5.6 kBProgress (1): 5.5/5.6 kBProgress (1): 5.6 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.8.2/junit-bom-5.8.2.pom (5.6 kB at 19 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/3.1.0/exec-maven-plugin-3.1.0.jar
+Progress (1): 4.1/73 kBProgress (1): 8.2/73 kBProgress (1): 12/73 kB Progress (1): 16/73 kBProgress (1): 20/73 kBProgress (1): 24/73 kBProgress (1): 28/73 kBProgress (1): 32/73 kBProgress (1): 36/73 kBProgress (1): 40/73 kBProgress (1): 45/73 kBProgress (1): 49/73 kBProgress (1): 53/73 kBProgress (1): 57/73 kBProgress (1): 61/73 kBProgress (1): 65/73 kBProgress (1): 69/73 kBProgress (1): 73 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/3.1.0/exec-maven-plugin-3.1.0.jar (73 kB at 160 kB/s)
+[INFO] 
+[INFO] --------------< com.Hexaware.CMS:CanteenManagementSystem >--------------
+[INFO] Building CanteenManagementSystem 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:3.1.0:java (default-cli) @ CanteenManagementSystem ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.pom
+Progress (1): 4.1/8.2 kBProgress (1): 8.2/8.2 kBProgress (1): 8.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.pom (8.2 kB at 26 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/8/plexus-8.pom
+Progress (1): 4.1/25 kBProgress (1): 8.2/25 kBProgress (1): 12/25 kB Progress (1): 16/25 kBProgress (1): 20/25 kBProgress (1): 24/25 kBProgress (1): 25 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/8/plexus-8.pom (25 kB at 80 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.1/plexus-component-annotations-2.1.1.pom
+Progress (1): 770 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.1/plexus-component-annotations-2.1.1.pom (770 B at 2.6 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/2.1.1/plexus-containers-2.1.1.pom
+Progress (1): 4.1/6.0 kBProgress (1): 6.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/2.1.1/plexus-containers-2.1.1.pom (6.0 kB at 20 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.1/plexus-component-annotations-2.1.1.jar
+Progress (1): 4.1/267 kBProgress (1): 8.2/267 kBProgress (1): 12/267 kB Progress (1): 16/267 kBProgress (1): 20/267 kBProgress (1): 24/267 kBProgress (1): 28/267 kBProgress (1): 32/267 kBProgress (1): 36/267 kBProgress (1): 40/267 kBProgress (1): 45/267 kBProgress (1): 49/267 kBProgress (1): 53/267 kBProgress (1): 57/267 kBProgress (1): 61/267 kBProgress (1): 65/267 kBProgress (1): 69/267 kBProgress (1): 73/267 kBProgress (1): 77/267 kBProgress (1): 81/267 kBProgress (1): 85/267 kBProgress (1): 90/267 kBProgress (1): 94/267 kBProgress (1): 98/267 kBProgress (1): 102/267 kBProgress (1): 106/267 kBProgress (1): 110/267 kBProgress (1): 114/267 kBProgress (1): 118/267 kBProgress (1): 122/267 kBProgress (1): 126/267 kBProgress (1): 131/267 kBProgress (1): 135/267 kBProgress (1): 139/267 kBProgress (1): 143/267 kBProgress (1): 147/267 kBProgress (1): 151/267 kBProgress (1): 155/267 kBProgress (1): 159/267 kBProgress (1): 163/267 kBProgress (1): 167/267 kBProgress (1): 171/267 kBProgress (1): 176/267 kBProgress (1): 180/267 kBProgress (1): 184/267 kBProgress (1): 188/267 kBProgress (1): 192/267 kBProgress (1): 196/267 kBProgress (1): 200/267 kBProgress (1): 204/267 kBProgress (1): 208/267 kBProgress (1): 212/267 kBProgress (1): 217/267 kBProgress (1): 221/267 kBProgress (1): 225/267 kBProgress (1): 229/267 kBProgress (1): 233/267 kBProgress (1): 237/267 kBProgress (1): 241/267 kBProgress (1): 245/267 kBProgress (1): 249/267 kBProgress (1): 253/267 kBProgress (1): 258/267 kBProgress (1): 262/267 kBProgress (1): 266/267 kBProgress (1): 267 kB    Progress (2): 267 kB | 2.7/4.1 kBProgress (2): 267 kB | 4.1 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar (267 kB at 536 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/2.1.1/plexus-component-annotations-2.1.1.jar (4.1 kB at 6.8 kB/s)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.930 s
+[INFO] Finished at: 2022-10-04T23:24:05+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.1.0:java (default-cli) on project CanteenManagementSystem: The parameters 'mainClass' for goal org.codehaus.mojo:exec-maven-plugin:3.1.0:java are missing or invalid -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/PluginParameterException
